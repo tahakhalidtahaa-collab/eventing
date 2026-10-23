@@ -4,781 +4,6 @@
       "Teams": [
         {
           "Form": "",
-          "Wins": 7,
-          "Draws": 0,
-          "Losses": 0,
-          "Played": 7,
-          "Points": 21,
-          "Position": 1,
-          "TeamLogo": "",
-          "TeamName": "Manchester City",
-          "GoalsAgainst": 7,
-          "GoalDifference": 12
-        },
-        {
-          "Form": "",
-          "Wins": 6,
-          "Draws": 0,
-          "Losses": 1,
-          "Played": 7,
-          "Points": 18,
-          "Position": 2,
-          "TeamLogo": "",
-          "TeamName": "Arsenal",
-          "GoalsAgainst": 5,
-          "GoalDifference": 6
-        },
-        {
-          "Form": "",
-          "Wins": 5,
-          "Draws": 1,
-          "Losses": 1,
-          "Played": 7,
-          "Points": 16,
-          "Position": 3,
-          "TeamLogo": "",
-          "TeamName": "Brighton & Hove Albion",
-          "GoalsAgainst": 5,
-          "GoalDifference": 18
-        },
-        {
-          "Form": "",
-          "Wins": 4,
-          "Draws": 1,
-          "Losses": 2,
-          "Played": 7,
-          "Points": 13,
-          "Position": 4,
-          "TeamLogo": "",
-          "TeamName": "Chelsea",
-          "GoalsAgainst": 13,
-          "GoalDifference": 4
-        },
-        {
-          "Form": "",
-          "Wins": 3,
-          "Draws": 3,
-          "Losses": 1,
-          "Played": 7,
-          "Points": 12,
-          "Position": 5,
-          "TeamLogo": "",
-          "TeamName": "Liverpool",
-          "GoalsAgainst": 8,
-          "GoalDifference": 1
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 4,
-          "Losses": 1,
-          "Played": 7,
-          "Points": 10,
-          "Position": 6,
-          "TeamLogo": "",
-          "TeamName": "Brentford",
-          "GoalsAgainst": 8,
-          "GoalDifference": 5
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 4,
-          "Losses": 1,
-          "Played": 7,
-          "Points": 10,
-          "Position": 7,
-          "TeamLogo": "",
-          "TeamName": "Leeds United",
-          "GoalsAgainst": 6,
-          "GoalDifference": 3
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 4,
-          "Losses": 1,
-          "Played": 7,
-          "Points": 10,
-          "Position": 8,
-          "TeamLogo": "",
-          "TeamName": "Everton",
-          "GoalsAgainst": 7,
-          "GoalDifference": 1
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 3,
-          "Losses": 2,
-          "Played": 7,
-          "Points": 9,
-          "Position": 9,
-          "TeamLogo": "",
-          "TeamName": "Hull City",
-          "GoalsAgainst": 7,
-          "GoalDifference": 1
-        },
-        {
-          "Form": "",
-          "Wins": 3,
-          "Draws": 0,
-          "Losses": 4,
-          "Played": 7,
-          "Points": 9,
-          "Position": 10,
-          "TeamLogo": "",
-          "TeamName": "Ipswich Town",
-          "GoalsAgainst": 15,
-          "GoalDifference": -4
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 2,
-          "Losses": 3,
-          "Played": 7,
-          "Points": 8,
-          "Position": 11,
-          "TeamLogo": "",
-          "TeamName": "Newcastle United",
-          "GoalsAgainst": 14,
-          "GoalDifference": -4
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 2,
-          "Losses": 3,
-          "Played": 7,
-          "Points": 8,
-          "Position": 12,
-          "TeamLogo": "",
-          "TeamName": "Aston Villa",
-          "GoalsAgainst": 11,
-          "GoalDifference": -4
-        },
-        {
-          "Form": "",
-          "Wins": 1,
-          "Draws": 4,
-          "Losses": 2,
-          "Played": 7,
-          "Points": 7,
-          "Position": 13,
-          "TeamLogo": "",
-          "TeamName": "Manchester United",
-          "GoalsAgainst": 10,
-          "GoalDifference": 0
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 1,
-          "Losses": 4,
-          "Played": 7,
-          "Points": 7,
-          "Position": 14,
-          "TeamLogo": "",
-          "TeamName": "Crystal Palace",
-          "GoalsAgainst": 17,
-          "GoalDifference": -8
-        },
-        {
-          "Form": "",
-          "Wins": 1,
-          "Draws": 3,
-          "Losses": 3,
-          "Played": 7,
-          "Points": 6,
-          "Position": 15,
-          "TeamLogo": "",
-          "TeamName": "AFC Bournemouth",
-          "GoalsAgainst": 13,
-          "GoalDifference": -4
-        },
-        {
-          "Form": "",
-          "Wins": 1,
-          "Draws": 3,
-          "Losses": 3,
-          "Played": 7,
-          "Points": 6,
-          "Position": 16,
-          "TeamLogo": "",
-          "TeamName": "Tottenham Hotspur",
-          "GoalsAgainst": 10,
-          "GoalDifference": -4
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 0,
-          "Losses": 5,
-          "Played": 7,
-          "Points": 6,
-          "Position": 17,
-          "TeamLogo": "",
-          "TeamName": "Coventry City",
-          "GoalsAgainst": 14,
-          "GoalDifference": -8
-        },
-        {
-          "Form": "",
-          "Wins": 1,
-          "Draws": 2,
-          "Losses": 4,
-          "Played": 7,
-          "Points": 5,
-          "Position": 18,
-          "TeamLogo": "",
-          "TeamName": "Fulham",
-          "GoalsAgainst": 10,
-          "GoalDifference": -3
-        },
-        {
-          "Form": "",
-          "Wins": 1,
-          "Draws": 2,
-          "Losses": 4,
-          "Played": 7,
-          "Points": 5,
-          "Position": 19,
-          "TeamLogo": "",
-          "TeamName": "Nottingham Forest",
-          "GoalsAgainst": 9,
-          "GoalDifference": -4
-        },
-        {
-          "Form": "",
-          "Wins": 1,
-          "Draws": 1,
-          "Losses": 5,
-          "Played": 7,
-          "Points": 4,
-          "Position": 20,
-          "TeamLogo": "",
-          "TeamName": "Sunderland",
-          "GoalsAgainst": 14,
-          "GoalDifference": -8
-        }
-      ],
-      "CountryFlag": "https://flagcdn.com/w320/gb.png",
-      "CountryName": "England",
-      "CompetitionName": "Premier League"
-    },
-    {
-      "Teams": [
-        {
-          "Form": "",
-          "Wins": 9,
-          "Draws": 0,
-          "Losses": 0,
-          "Played": 9,
-          "Points": 27,
-          "Position": 1,
-          "TeamLogo": "",
-          "TeamName": "FC Barcelona",
-          "GoalsAgainst": 9,
-          "GoalDifference": 30
-        },
-        {
-          "Form": "",
-          "Wins": 7,
-          "Draws": 1,
-          "Losses": 1,
-          "Played": 9,
-          "Points": 22,
-          "Position": 2,
-          "TeamLogo": "",
-          "TeamName": "Atletico Madrid",
-          "GoalsAgainst": 8,
-          "GoalDifference": 11
-        },
-        {
-          "Form": "",
-          "Wins": 7,
-          "Draws": 0,
-          "Losses": 2,
-          "Played": 9,
-          "Points": 21,
-          "Position": 3,
-          "TeamLogo": "",
-          "TeamName": "Real Madrid",
-          "GoalsAgainst": 9,
-          "GoalDifference": 14
-        },
-        {
-          "Form": "",
-          "Wins": 6,
-          "Draws": 1,
-          "Losses": 2,
-          "Played": 9,
-          "Points": 19,
-          "Position": 4,
-          "TeamLogo": "",
-          "TeamName": "Real Betis",
-          "GoalsAgainst": 14,
-          "GoalDifference": 2
-        },
-        {
-          "Form": "",
-          "Wins": 5,
-          "Draws": 1,
-          "Losses": 3,
-          "Played": 9,
-          "Points": 16,
-          "Position": 5,
-          "TeamLogo": "",
-          "TeamName": "Real Sociedad",
-          "GoalsAgainst": 17,
-          "GoalDifference": 0
-        },
-        {
-          "Form": "",
-          "Wins": 4,
-          "Draws": 2,
-          "Losses": 3,
-          "Played": 9,
-          "Points": 14,
-          "Position": 6,
-          "TeamLogo": "",
-          "TeamName": "Sevilla FC",
-          "GoalsAgainst": 16,
-          "GoalDifference": -2
-        },
-        {
-          "Form": "",
-          "Wins": 3,
-          "Draws": 2,
-          "Losses": 4,
-          "Played": 9,
-          "Points": 11,
-          "Position": 7,
-          "TeamLogo": "",
-          "TeamName": "Deportivo Alaves",
-          "GoalsAgainst": 10,
-          "GoalDifference": 3
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 5,
-          "Losses": 2,
-          "Played": 9,
-          "Points": 11,
-          "Position": 8,
-          "TeamLogo": "",
-          "TeamName": "RC Celta de Vigo",
-          "GoalsAgainst": 7,
-          "GoalDifference": 3
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 5,
-          "Losses": 2,
-          "Played": 9,
-          "Points": 11,
-          "Position": 9,
-          "TeamLogo": "",
-          "TeamName": "RC Deportivo",
-          "GoalsAgainst": 12,
-          "GoalDifference": 1
-        },
-        {
-          "Form": "",
-          "Wins": 3,
-          "Draws": 2,
-          "Losses": 4,
-          "Played": 9,
-          "Points": 11,
-          "Position": 10,
-          "TeamLogo": "",
-          "TeamName": "CA Osasuna",
-          "GoalsAgainst": 18,
-          "GoalDifference": -8
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 4,
-          "Losses": 3,
-          "Played": 9,
-          "Points": 10,
-          "Position": 11,
-          "TeamLogo": "",
-          "TeamName": "Levante UD",
-          "GoalsAgainst": 17,
-          "GoalDifference": -2
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 3,
-          "Losses": 4,
-          "Played": 9,
-          "Points": 9,
-          "Position": 12,
-          "TeamLogo": "",
-          "TeamName": "Villarreal CF",
-          "GoalsAgainst": 13,
-          "GoalDifference": 0
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 3,
-          "Losses": 3,
-          "Played": 8,
-          "Points": 9,
-          "Position": 13,
-          "TeamLogo": "",
-          "TeamName": "Athletic Club",
-          "GoalsAgainst": 9,
-          "GoalDifference": -1
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 3,
-          "Losses": 3,
-          "Played": 8,
-          "Points": 9,
-          "Position": 14,
-          "TeamLogo": "",
-          "TeamName": "Rayo Vallecano",
-          "GoalsAgainst": 17,
-          "GoalDifference": -5
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 3,
-          "Losses": 4,
-          "Played": 9,
-          "Points": 9,
-          "Position": 15,
-          "TeamLogo": "",
-          "TeamName": "Getafe CF",
-          "GoalsAgainst": 11,
-          "GoalDifference": -6
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 2,
-          "Losses": 5,
-          "Played": 9,
-          "Points": 8,
-          "Position": 16,
-          "TeamLogo": "",
-          "TeamName": "RCD Espanyol de Barcelona",
-          "GoalsAgainst": 12,
-          "GoalDifference": -1
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 2,
-          "Losses": 5,
-          "Played": 9,
-          "Points": 8,
-          "Position": 17,
-          "TeamLogo": "",
-          "TeamName": "Racing Santander",
-          "GoalsAgainst": 25,
-          "GoalDifference": -12
-        },
-        {
-          "Form": "",
-          "Wins": 1,
-          "Draws": 4,
-          "Losses": 4,
-          "Played": 9,
-          "Points": 7,
-          "Position": 18,
-          "TeamLogo": "",
-          "TeamName": "Elche CF",
-          "GoalsAgainst": 17,
-          "GoalDifference": -6
-        },
-        {
-          "Form": "",
-          "Wins": 1,
-          "Draws": 3,
-          "Losses": 5,
-          "Played": 9,
-          "Points": 6,
-          "Position": 19,
-          "TeamLogo": "",
-          "TeamName": "Valencia CF",
-          "GoalsAgainst": 15,
-          "GoalDifference": -9
-        },
-        {
-          "Form": "",
-          "Wins": 0,
-          "Draws": 4,
-          "Losses": 5,
-          "Played": 9,
-          "Points": 4,
-          "Position": 20,
-          "TeamLogo": "",
-          "TeamName": "Malaga CF",
-          "GoalsAgainst": 18,
-          "GoalDifference": -12
-        }
-      ],
-      "CountryFlag": "https://flagcdn.com/w320/es.png",
-      "CountryName": "Spain",
-      "CompetitionName": "La Liga"
-    },
-    {
-      "Teams": [
-        {
-          "Form": "",
-          "Wins": 4,
-          "Draws": 2,
-          "Losses": 0,
-          "Played": 6,
-          "Points": 14,
-          "Position": 1,
-          "TeamLogo": "",
-          "TeamName": "Bayern Munich",
-          "GoalsAgainst": 5,
-          "GoalDifference": 17
-        },
-        {
-          "Form": "",
-          "Wins": 4,
-          "Draws": 2,
-          "Losses": 0,
-          "Played": 6,
-          "Points": 14,
-          "Position": 2,
-          "TeamLogo": "",
-          "TeamName": "Borussia Dortmund",
-          "GoalsAgainst": 4,
-          "GoalDifference": 7
-        },
-        {
-          "Form": "",
-          "Wins": 4,
-          "Draws": 1,
-          "Losses": 1,
-          "Played": 6,
-          "Points": 13,
-          "Position": 3,
-          "TeamLogo": "",
-          "TeamName": "Freiburg",
-          "GoalsAgainst": 6,
-          "GoalDifference": 9
-        },
-        {
-          "Form": "",
-          "Wins": 4,
-          "Draws": 1,
-          "Losses": 1,
-          "Played": 6,
-          "Points": 13,
-          "Position": 4,
-          "TeamLogo": "",
-          "TeamName": "Bayer Leverkusen",
-          "GoalsAgainst": 9,
-          "GoalDifference": 7
-        },
-        {
-          "Form": "",
-          "Wins": 3,
-          "Draws": 1,
-          "Losses": 2,
-          "Played": 6,
-          "Points": 10,
-          "Position": 5,
-          "TeamLogo": "",
-          "TeamName": "Mainz",
-          "GoalsAgainst": 10,
-          "GoalDifference": 4
-        },
-        {
-          "Form": "",
-          "Wins": 3,
-          "Draws": 1,
-          "Losses": 2,
-          "Played": 6,
-          "Points": 10,
-          "Position": 6,
-          "TeamLogo": "",
-          "TeamName": "Elversberg",
-          "GoalsAgainst": 11,
-          "GoalDifference": 1
-        },
-        {
-          "Form": "",
-          "Wins": 3,
-          "Draws": 0,
-          "Losses": 3,
-          "Played": 6,
-          "Points": 9,
-          "Position": 7,
-          "TeamLogo": "",
-          "TeamName": "RB Leipzig",
-          "GoalsAgainst": 11,
-          "GoalDifference": 5
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 3,
-          "Losses": 1,
-          "Played": 6,
-          "Points": 9,
-          "Position": 8,
-          "TeamLogo": "",
-          "TeamName": "Werder Bremen",
-          "GoalsAgainst": 12,
-          "GoalDifference": 0
-        },
-        {
-          "Form": "",
-          "Wins": 3,
-          "Draws": 0,
-          "Losses": 3,
-          "Played": 6,
-          "Points": 9,
-          "Position": 9,
-          "TeamLogo": "",
-          "TeamName": "Hamburger SV",
-          "GoalsAgainst": 15,
-          "GoalDifference": -9
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 2,
-          "Losses": 2,
-          "Played": 6,
-          "Points": 8,
-          "Position": 10,
-          "TeamLogo": "",
-          "TeamName": "FC Augsburg",
-          "GoalsAgainst": 12,
-          "GoalDifference": 4
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 2,
-          "Losses": 2,
-          "Played": 6,
-          "Points": 8,
-          "Position": 11,
-          "TeamLogo": "",
-          "TeamName": "Eintracht Frankfurt",
-          "GoalsAgainst": 16,
-          "GoalDifference": -6
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 1,
-          "Losses": 3,
-          "Played": 6,
-          "Points": 7,
-          "Position": 12,
-          "TeamLogo": "",
-          "TeamName": "1. FC Cologne",
-          "GoalsAgainst": 11,
-          "GoalDifference": -3
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 0,
-          "Losses": 4,
-          "Played": 6,
-          "Points": 6,
-          "Position": 13,
-          "TeamLogo": "",
-          "TeamName": "VfB Stuttgart",
-          "GoalsAgainst": 10,
-          "GoalDifference": -2
-        },
-        {
-          "Form": "",
-          "Wins": 2,
-          "Draws": 0,
-          "Losses": 4,
-          "Played": 6,
-          "Points": 6,
-          "Position": 14,
-          "TeamLogo": "",
-          "TeamName": "TSG Hoffenheim",
-          "GoalsAgainst": 14,
-          "GoalDifference": -3
-        },
-        {
-          "Form": "",
-          "Wins": 1,
-          "Draws": 2,
-          "Losses": 3,
-          "Played": 6,
-          "Points": 5,
-          "Position": 15,
-          "TeamLogo": "",
-          "TeamName": "Schalke 04",
-          "GoalsAgainst": 7,
-          "GoalDifference": -3
-        },
-        {
-          "Form": "",
-          "Wins": 1,
-          "Draws": 2,
-          "Losses": 3,
-          "Played": 6,
-          "Points": 5,
-          "Position": 16,
-          "TeamLogo": "",
-          "TeamName": "SC Paderborn 07",
-          "GoalsAgainst": 9,
-          "GoalDifference": -4
-        },
-        {
-          "Form": "",
-          "Wins": 1,
-          "Draws": 2,
-          "Losses": 3,
-          "Played": 6,
-          "Points": 5,
-          "Position": 17,
-          "TeamLogo": "",
-          "TeamName": "Union Berlin",
-          "GoalsAgainst": 17,
-          "GoalDifference": -12
-        },
-        {
-          "Form": "",
-          "Wins": 0,
-          "Draws": 0,
-          "Losses": 6,
-          "Played": 6,
-          "Points": 0,
-          "Position": 18,
-          "TeamLogo": "",
-          "TeamName": "Borussia Monchengladbach",
-          "GoalsAgainst": 20,
-          "GoalDifference": -12
-        }
-      ],
-      "CountryFlag": "https://flagcdn.com/w320/de.png",
-      "CountryName": "Germany",
-      "CompetitionName": "Bundesliga"
-    },
-    {
-      "Teams": [
-        {
-          "Form": "",
           "Wins": 6,
           "Draws": 1,
           "Losses": 0,
@@ -1046,68 +271,42 @@
       "Teams": [
         {
           "Form": "",
-          "Wins": 4,
-          "Draws": 2,
-          "Losses": 1,
+          "Wins": 7,
+          "Draws": 0,
+          "Losses": 0,
           "Played": 7,
-          "Points": 14,
+          "Points": 21,
           "Position": 1,
           "TeamLogo": "",
-          "TeamName": "Lyon",
-          "GoalsAgainst": 5,
-          "GoalDifference": 8
+          "TeamName": "Manchester City",
+          "GoalsAgainst": 7,
+          "GoalDifference": 12
         },
         {
           "Form": "",
-          "Wins": 4,
-          "Draws": 2,
+          "Wins": 6,
+          "Draws": 0,
           "Losses": 1,
           "Played": 7,
-          "Points": 14,
+          "Points": 18,
           "Position": 2,
           "TeamLogo": "",
-          "TeamName": "Paris Saint-Germain",
-          "GoalsAgainst": 9,
-          "GoalDifference": 5
+          "TeamName": "Arsenal",
+          "GoalsAgainst": 5,
+          "GoalDifference": 6
         },
         {
           "Form": "",
-          "Wins": 4,
-          "Draws": 2,
+          "Wins": 5,
+          "Draws": 1,
           "Losses": 1,
           "Played": 7,
-          "Points": 14,
+          "Points": 16,
           "Position": 3,
           "TeamLogo": "",
-          "TeamName": "Paris FC",
-          "GoalsAgainst": 7,
-          "GoalDifference": 5
-        },
-        {
-          "Form": "",
-          "Wins": 4,
-          "Draws": 2,
-          "Losses": 1,
-          "Played": 7,
-          "Points": 14,
-          "Position": 4,
-          "TeamLogo": "",
-          "TeamName": "Lille",
+          "TeamName": "Brighton & Hove Albion",
           "GoalsAgainst": 5,
-          "GoalDifference": 5
-        },
-        {
-          "Form": "",
-          "Wins": 4,
-          "Draws": 2,
-          "Losses": 1,
-          "Played": 7,
-          "Points": 14,
-          "Position": 5,
-          "TeamLogo": "",
-          "TeamName": "Monaco",
-          "GoalsAgainst": 6,
-          "GoalDifference": 4
+          "GoalDifference": 18
         },
         {
           "Form": "",
@@ -1116,63 +315,63 @@
           "Losses": 2,
           "Played": 7,
           "Points": 13,
-          "Position": 6,
+          "Position": 4,
           "TeamLogo": "",
-          "TeamName": "Rennes",
-          "GoalsAgainst": 14,
-          "GoalDifference": 1
-        },
-        {
-          "Form": "",
-          "Wins": 3,
-          "Draws": 2,
-          "Losses": 2,
-          "Played": 7,
-          "Points": 11,
-          "Position": 7,
-          "TeamLogo": "",
-          "TeamName": "Lorient",
-          "GoalsAgainst": 6,
-          "GoalDifference": 1
-        },
-        {
-          "Form": "",
-          "Wins": 3,
-          "Draws": 1,
-          "Losses": 3,
-          "Played": 7,
-          "Points": 10,
-          "Position": 8,
-          "TeamLogo": "",
-          "TeamName": "Lens",
-          "GoalsAgainst": 11,
-          "GoalDifference": 3
-        },
-        {
-          "Form": "",
-          "Wins": 3,
-          "Draws": 0,
-          "Losses": 4,
-          "Played": 7,
-          "Points": 9,
-          "Position": 9,
-          "TeamLogo": "",
-          "TeamName": "Marseille",
-          "GoalsAgainst": 10,
+          "TeamName": "Chelsea",
+          "GoalsAgainst": 13,
           "GoalDifference": 4
         },
         {
           "Form": "",
-          "Wins": 2,
+          "Wins": 3,
           "Draws": 3,
-          "Losses": 2,
+          "Losses": 1,
           "Played": 7,
-          "Points": 9,
-          "Position": 10,
+          "Points": 12,
+          "Position": 5,
           "TeamLogo": "",
-          "TeamName": "Brest",
-          "GoalsAgainst": 10,
+          "TeamName": "Liverpool",
+          "GoalsAgainst": 8,
+          "GoalDifference": 1
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 4,
+          "Losses": 1,
+          "Played": 7,
+          "Points": 10,
+          "Position": 6,
+          "TeamLogo": "",
+          "TeamName": "Brentford",
+          "GoalsAgainst": 8,
+          "GoalDifference": 5
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 4,
+          "Losses": 1,
+          "Played": 7,
+          "Points": 10,
+          "Position": 7,
+          "TeamLogo": "",
+          "TeamName": "Leeds United",
+          "GoalsAgainst": 6,
           "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 4,
+          "Losses": 1,
+          "Played": 7,
+          "Points": 10,
+          "Position": 8,
+          "TeamLogo": "",
+          "TeamName": "Everton",
+          "GoalsAgainst": 7,
+          "GoalDifference": 1
         },
         {
           "Form": "",
@@ -1181,10 +380,10 @@
           "Losses": 2,
           "Played": 7,
           "Points": 9,
-          "Position": 11,
+          "Position": 9,
           "TeamLogo": "",
-          "TeamName": "Toulouse",
-          "GoalsAgainst": 11,
+          "TeamName": "Hull City",
+          "GoalsAgainst": 7,
           "GoalDifference": 1
         },
         {
@@ -1194,11 +393,11 @@
           "Losses": 4,
           "Played": 7,
           "Points": 9,
-          "Position": 12,
+          "Position": 10,
           "TeamLogo": "",
-          "TeamName": "Auxerre",
-          "GoalsAgainst": 17,
-          "GoalDifference": -6
+          "TeamName": "Ipswich Town",
+          "GoalsAgainst": 15,
+          "GoalDifference": -4
         },
         {
           "Form": "",
@@ -1207,11 +406,37 @@
           "Losses": 3,
           "Played": 7,
           "Points": 8,
+          "Position": 11,
+          "TeamLogo": "",
+          "TeamName": "Newcastle United",
+          "GoalsAgainst": 14,
+          "GoalDifference": -4
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 3,
+          "Played": 7,
+          "Points": 8,
+          "Position": 12,
+          "TeamLogo": "",
+          "TeamName": "Aston Villa",
+          "GoalsAgainst": 11,
+          "GoalDifference": -4
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 4,
+          "Losses": 2,
+          "Played": 7,
+          "Points": 7,
           "Position": 13,
           "TeamLogo": "",
-          "TeamName": "Nice",
-          "GoalsAgainst": 9,
-          "GoalDifference": -3
+          "TeamName": "Manchester United",
+          "GoalsAgainst": 10,
+          "GoalDifference": 0
         },
         {
           "Form": "",
@@ -1222,22 +447,22 @@
           "Points": 7,
           "Position": 14,
           "TeamLogo": "",
-          "TeamName": "Strasbourg",
-          "GoalsAgainst": 15,
-          "GoalDifference": -3
+          "TeamName": "Crystal Palace",
+          "GoalsAgainst": 17,
+          "GoalDifference": -8
         },
         {
           "Form": "",
-          "Wins": 2,
-          "Draws": 1,
-          "Losses": 4,
+          "Wins": 1,
+          "Draws": 3,
+          "Losses": 3,
           "Played": 7,
-          "Points": 7,
+          "Points": 6,
           "Position": 15,
           "TeamLogo": "",
-          "TeamName": "Angers",
-          "GoalsAgainst": 15,
-          "GoalDifference": -6
+          "TeamName": "AFC Bournemouth",
+          "GoalsAgainst": 13,
+          "GoalDifference": -4
         },
         {
           "Form": "",
@@ -1248,9 +473,48 @@
           "Points": 6,
           "Position": 16,
           "TeamLogo": "",
-          "TeamName": "Le Mans",
-          "GoalsAgainst": 15,
-          "GoalDifference": -5
+          "TeamName": "Tottenham Hotspur",
+          "GoalsAgainst": 10,
+          "GoalDifference": -4
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 5,
+          "Played": 7,
+          "Points": 6,
+          "Position": 17,
+          "TeamLogo": "",
+          "TeamName": "Coventry City",
+          "GoalsAgainst": 14,
+          "GoalDifference": -8
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 2,
+          "Losses": 4,
+          "Played": 7,
+          "Points": 5,
+          "Position": 18,
+          "TeamLogo": "",
+          "TeamName": "Fulham",
+          "GoalsAgainst": 10,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 2,
+          "Losses": 4,
+          "Played": 7,
+          "Points": 5,
+          "Position": 19,
+          "TeamLogo": "",
+          "TeamName": "Nottingham Forest",
+          "GoalsAgainst": 9,
+          "GoalDifference": -4
         },
         {
           "Form": "",
@@ -1259,29 +523,16 @@
           "Losses": 5,
           "Played": 7,
           "Points": 4,
-          "Position": 17,
+          "Position": 20,
           "TeamLogo": "",
-          "TeamName": "Troyes",
-          "GoalsAgainst": 16,
-          "GoalDifference": -11
-        },
-        {
-          "Form": "",
-          "Wins": 0,
-          "Draws": 2,
-          "Losses": 5,
-          "Played": 7,
-          "Points": 2,
-          "Position": 18,
-          "TeamLogo": "",
-          "TeamName": "Le Havre",
-          "GoalsAgainst": 11,
-          "GoalDifference": -6
+          "TeamName": "Sunderland",
+          "GoalsAgainst": 14,
+          "GoalDifference": -8
         }
       ],
-      "CountryFlag": "https://flagcdn.com/w320/fr.png",
-      "CountryName": "France",
-      "CompetitionName": "Ligue 1"
+      "CountryFlag": "https://flagcdn.com/w320/gb.png",
+      "CountryName": "England",
+      "CompetitionName": "Premier League"
     }
   ],
   "PlayerConfig": {
@@ -1301,151 +552,6 @@
   },
   "CustomInterAds": [],
   "FootballFixtures": [
-    {
-      "CountryFlag": "https://flagcdn.com/w320/gb.png",
-      "CountryName": "England",
-      "Competitions": [
-        {
-          "Fixtures": [
-            {
-              "Status": "Upcoming",
-              "AwayTeam": "Manchester City",
-              "HomeTeam": "Aston Villa",
-              "MatchTime": "2026-10-24 12:30 BST",
-              "AwayTeamLogo": "",
-              "HomeTeamLogo": ""
-            },
-            {
-              "Status": "Upcoming",
-              "AwayTeam": "Everton",
-              "HomeTeam": "Arsenal",
-              "MatchTime": "2026-10-24 15:00 BST",
-              "AwayTeamLogo": "",
-              "HomeTeamLogo": ""
-            },
-            {
-              "Status": "Upcoming",
-              "AwayTeam": "Fulham",
-              "HomeTeam": "Coventry City",
-              "MatchTime": "2026-10-24 15:00 BST",
-              "AwayTeamLogo": "",
-              "HomeTeamLogo": ""
-            },
-            {
-              "Status": "Upcoming",
-              "AwayTeam": "Tottenham Hotspur",
-              "HomeTeam": "Chelsea",
-              "MatchTime": "2026-10-24 17:30 BST",
-              "AwayTeamLogo": "",
-              "HomeTeamLogo": ""
-            }
-          ],
-          "CompetitionName": "Premier League"
-        }
-      ]
-    },
-    {
-      "CountryFlag": "https://flagcdn.com/w320/es.png",
-      "CountryName": "Spain",
-      "Competitions": [
-        {
-          "Fixtures": [
-            {
-              "Status": "Upcoming",
-              "AwayTeam": "Elche CF",
-              "HomeTeam": "Rayo Vallecano",
-              "MatchTime": "2026-10-24 14:00 CEST",
-              "AwayTeamLogo": "",
-              "HomeTeamLogo": ""
-            },
-            {
-              "Status": "Upcoming",
-              "AwayTeam": "RCD Espanyol de Barcelona",
-              "HomeTeam": "Racing Santander",
-              "MatchTime": "2026-10-24 16:15 CEST",
-              "AwayTeamLogo": "",
-              "HomeTeamLogo": ""
-            },
-            {
-              "Status": "Upcoming",
-              "AwayTeam": "Villarreal CF",
-              "HomeTeam": "Valencia CF",
-              "MatchTime": "2026-10-24 18:30 CEST",
-              "AwayTeamLogo": "",
-              "HomeTeamLogo": ""
-            },
-            {
-              "Status": "Upcoming",
-              "AwayTeam": "RC Deportivo",
-              "HomeTeam": "Atletico Madrid",
-              "MatchTime": "2026-10-24 21:00 CEST",
-              "AwayTeamLogo": "",
-              "HomeTeamLogo": ""
-            }
-          ],
-          "CompetitionName": "La Liga"
-        }
-      ]
-    },
-    {
-      "CountryFlag": "https://flagcdn.com/w320/de.png",
-      "CountryName": "Germany",
-      "Competitions": [
-        {
-          "Fixtures": [
-            {
-              "Status": "Upcoming",
-              "AwayTeam": "Elversberg",
-              "HomeTeam": "RB Leipzig",
-              "MatchTime": "2026-10-24 15:30 CEST",
-              "AwayTeamLogo": "",
-              "HomeTeamLogo": ""
-            },
-            {
-              "Status": "Upcoming",
-              "AwayTeam": "Union Berlin",
-              "HomeTeam": "FC Augsburg",
-              "MatchTime": "2026-10-24 15:30 CEST",
-              "AwayTeamLogo": "",
-              "HomeTeamLogo": ""
-            },
-            {
-              "Status": "Upcoming",
-              "AwayTeam": "Werder Bremen",
-              "HomeTeam": "Mainz",
-              "MatchTime": "2026-10-24 15:30 CEST",
-              "AwayTeamLogo": "",
-              "HomeTeamLogo": ""
-            },
-            {
-              "Status": "Upcoming",
-              "AwayTeam": "Schalke 04",
-              "HomeTeam": "1. FC Cologne",
-              "MatchTime": "2026-10-24 15:30 CEST",
-              "AwayTeamLogo": "",
-              "HomeTeamLogo": ""
-            },
-            {
-              "Status": "Upcoming",
-              "AwayTeam": "Hamburger SV",
-              "HomeTeam": "SC Paderborn 07",
-              "MatchTime": "2026-10-24 15:30 CEST",
-              "AwayTeamLogo": "",
-              "HomeTeamLogo": ""
-            },
-            {
-              "Status": "Upcoming",
-              "AwayTeam": "Eintracht Frankfurt",
-              "HomeTeam": "Borussia Dortmund",
-              "MatchTime": "2026-10-24 18:30 CEST",
-              "AwayTeamLogo": "",
-              "HomeTeamLogo": ""
-            }
-          ],
-          "CompetitionName": "Bundesliga"
-        }
-      ]
-    },
     {
       "CountryFlag": "https://flagcdn.com/w320/it.png",
       "CountryName": "Italy",
@@ -1490,21 +596,45 @@
       ]
     },
     {
-      "CountryFlag": "https://flagcdn.com/w320/fr.png",
-      "CountryName": "France",
+      "CountryFlag": "https://flagcdn.com/w320/gb.png",
+      "CountryName": "England",
       "Competitions": [
         {
           "Fixtures": [
             {
               "Status": "Upcoming",
-              "AwayTeam": "Paris FC",
-              "HomeTeam": "Lens",
-              "MatchTime": "2026-10-24 20:45 CEST",
+              "AwayTeam": "Manchester City",
+              "HomeTeam": "Aston Villa",
+              "MatchTime": "2026-10-24 12:30 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Everton",
+              "HomeTeam": "Arsenal",
+              "MatchTime": "2026-10-24 15:00 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Fulham",
+              "HomeTeam": "Coventry City",
+              "MatchTime": "2026-10-24 15:00 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Tottenham Hotspur",
+              "HomeTeam": "Chelsea",
+              "MatchTime": "2026-10-24 17:30 BST",
               "AwayTeamLogo": "",
               "HomeTeamLogo": ""
             }
           ],
-          "CompetitionName": "Ligue 1"
+          "CompetitionName": "Premier League"
         }
       ]
     }
